@@ -1,2 +1,3 @@
 Bob likes bicycles.
 Bob also likes baseball.
+He uses giant lasers. That's fun.
