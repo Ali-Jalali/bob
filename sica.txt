@@ -1,1 +1,2 @@
 Bob likes bicycles.
+Some comments about Bob. This is after pull request by Shannon  and before getting that change.
